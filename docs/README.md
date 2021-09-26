@@ -1,7 +1,7 @@
 # Eyes Movement
 A funny page where an eyes follow the mouse's cursor.
 
-![Pacmen GIF](../images/eyemovement.gif)
+![Pacmen GIF](https://github.com/ZiurN/JefersonMITxPROEyeMovement/blob/main/images/eyemovement.gif)
 ## Description
 This is a simple page where two curious eyes just start following the cursor of your mouse when you move it along the whole page.
 ## How to Run
